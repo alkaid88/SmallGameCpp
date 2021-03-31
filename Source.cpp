@@ -5,6 +5,8 @@
 #include <fstream>
 using namespace std;
 
+//This game is platform-dependent
+
 bool gameOver = false;
 char nick[5]{};
 int odliczacz{};
